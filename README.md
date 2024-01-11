@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data
 - 📫 reach me by email 
-- 😄 Pronouns: she
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
 <!---
