@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jade
 - 👀 I’m interested in Data, Programing
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data
+- 💞️ I’m looking to collaborate on Data and programing
 - 📫 reach me by email 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
